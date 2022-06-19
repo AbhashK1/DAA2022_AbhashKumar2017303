@@ -1,3 +1,5 @@
+/*Implement the previous problem using Kruskal's algorithm*/
+
 #include <bits/stdc++.h>
 #include<iostream>
 #include<vector>
