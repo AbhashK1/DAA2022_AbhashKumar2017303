@@ -1,3 +1,10 @@
+/*Assume that a project of road construction to connect some cities is given to your friend. Map of these cities and roads which will connect them (after construction) 
+is provided to him in the form of a graph. Certain amount of rupees is associated with construction of each road. Your friend has to calculate the minimum budget 
+required for this project. The budget should be designed in such a way that the cost of connecting the cities should beminimum and number of roads required to connect
+all the cities should beminimum (if there are N cities then only N-1 roads need to be constructed). He asks you for help. Now, you have to help your friend by 
+designing an algorithm which will find minimum cost required to connect these cities. (use Prim's algorithm)*/
+
+
 #include <bits/stdc++.h>
 #include<iostream>
 #include<vector>
