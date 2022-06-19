@@ -1,3 +1,6 @@
+/*Given a (directed/undirected) graph, design an algorithm and implement it using a program to
+find if a path exists between two given vertices or not. (Hint: use DFS)*/
+
 #include<iostream>
 #include<vector>
 #include<algorithm>
